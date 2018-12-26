@@ -1,0 +1,10 @@
+{
+    "database" : {
+        "server"   : "myserver.domain.com",
+        "serverIp" : "xxx.xxx.xxx.x",
+        "username" : "username",
+        "password" : "password",
+        "databaseName" : "mydbname",
+        "databaseType" : "mssql"
+    }
+}
